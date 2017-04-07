@@ -12,7 +12,7 @@ function demo_page_data($page=null){
 	
 	$CLIENT_ID     = 'pqoplsQPnT6QQEBlxNGDwuViuVYljvO3S51I6PgG';
 	$CLIENT_SECRET = 'fjFjSuIwfPayxEJV3pVmgupSpjwMyorG9q6iWvyN';
-	$REDIRECT_URI           = 'https://testherokuwebprog.herokuapp.com/cv';
+	$REDIRECT_URI           = 'https://testherokuwebprog.herokuapp.com';
 	$AUTHORIZATION_ENDPOINT = 'https://mycourseville.com/api/oauth/authorize';
 	$TOKEN_ENDPOINT         = 'https://mycourseville.com/api/oauth/access_token';
 	
