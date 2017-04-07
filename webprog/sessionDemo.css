@@ -1,0 +1,20 @@
+.form-label{
+	display:inline-block;
+	width:100px;
+	margin:0 10px 0 0;
+}
+#absolute-session-box{
+	position:absolute;
+	top:10px;
+	right:10px;
+	border:1px solid black;
+	padding:10px;
+	background:#AAAAAA;
+}
+#session-demo-message{
+	border:1px solid #008d11;
+	color:#008d11;
+	padding:10px;
+	margin:0 0 10px 0;
+	background:#b7ffbf;
+}
