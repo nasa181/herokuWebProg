@@ -1,0 +1,11 @@
+body{
+	font-family: monospace;
+}
+#cv-logo{
+	text-align: left;
+	display: inline-block;
+}
+#demo-account{
+	border-top:1px dashed;
+	border-bottom:1px dashed;
+}
